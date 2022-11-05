@@ -6,6 +6,8 @@ Goal: Develop a clone of the VR game Beat Saber to help patients practicing spor
 
 Software: a VR game and a level editor developed with unity
 
+technologie : Unity , oculus Quest 2 headset
+
 Warning : there is audio with the videos
 
 https://user-images.githubusercontent.com/99366674/200136080-1045f5c3-a8af-47ac-8df7-6cf722926d98.mp4
